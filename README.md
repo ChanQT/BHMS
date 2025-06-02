@@ -17,6 +17,7 @@ A full-stack Boarding House Management System designed to simplify operations fo
 - TypeScript Frontend: Maintainable and scalable front-end code.
 - Laravel 10 Backend: RESTful API with robust security and validation.
 - Activity Logging: Track user actions and system changes.
+- Offline Capability	Designed to function exclusively on desktop without requiring an internet connection, making it suitable for standalone use.
 
 ## 📦 Tech Stack
 - **Frontend**: TypeScript, React
@@ -24,28 +25,37 @@ A full-stack Boarding House Management System designed to simplify operations fo
 - **Database**: MySQL
 - **Authentication**: Laravel Sanctum
 - **API**: RESTful APIs built with Laravel
+
 ## ⚙️ Installation
+donwnoad Node.js ≥v18 (https://nodejs.org/en)
+prompt in cmd" npm createvite@latest
+Create Project Name “fronted-app”
+Select “React” for Framework
+Select a Variant “TypeScript + SWC”
+SWC (stands for Speedy Web Compiler)
+npm install
+composer install(for back end)
 
 **Frontend (TypeScript)**
-git clone https://github.com/ChanQT/boarding-house-frontend.git
-cd boarding-house-frontend
-npm install
+[BHMS GitHub Repository](https://github.com/ChanQT/BHMS)
+cd Frontend
 npm run dev
 
 
+**database**
+Download Xampp for Mysql
+
 ### Backend (Laravel)
-```bash
-git clone https://github.com/ChanQT/boarding-house-backend.git
-cd boarding-house-backend
-composer install
+[BHMS GitHub Repository](https://github.com/ChanQT/BHMS)
+cd backend
 cp .env.bhms .env
 php artisan key:generate
 php artisan migrate --seed
 php artisan serve
    
  **Testing**
-php artisan serve
-npm run dev 
+php artisan serve(backend folder)
+npm run dev (Frontend folder)
 
 
 
