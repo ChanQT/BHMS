@@ -17,7 +17,7 @@ A full-stack Boarding House Management System designed to simplify operations fo
 - TypeScript Frontend: Maintainable and scalable front-end code.
 - Laravel 10 Backend: RESTful API with robust security and validation.
 - Activity Logging: Track user actions and system changes.
-- Offline Capability	Designed to function exclusively on desktop without requiring an internet connection, making it suitable for standalone use.
+- Offline Capability:	Designed to function exclusively on desktop without requiring an internet connection, making it suitable for standalone use.
 
 ## 📦 Tech Stack
 - **Frontend**: TypeScript, React
