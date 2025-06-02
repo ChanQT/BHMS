@@ -44,8 +44,8 @@ php artisan migrate --seed
 php artisan serve
    
  **Testing**
-php artisan test
-npm run test
+php artisan serve
+npm run dev 
 
 
 
