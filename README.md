@@ -1,7 +1,7 @@
 # BHMS
 # 🏠 Boarding House Management System
 
-A full-stack Boarding House Management System designed to simplify operations for landlords and tenants. Built with **TypeScript** on the frontend and **Laravel 10 (PHP)** on the backend.
+A full-stack Boarding House Management System designed to simplify operations for landlords . Built with **TypeScript** on the frontend and **Laravel 10 (PHP)** on the backend.
 
 ---
 
