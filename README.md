@@ -37,7 +37,7 @@ npm install
 composer install(for back end)
 
 **Frontend (TypeScript)**
-[BHMS GitHub Repository](https://github.com/ChanQT/BHMS)
+https://github.com/ChanQT/Frontend
 cd Frontend
 npm run dev
 
@@ -46,7 +46,7 @@ npm run dev
 Download Xampp for Mysql
 
 ### Backend (Laravel)
-[BHMS GitHub Repository](https://github.com/ChanQT/BHMS)
+https://github.com/ChanQT/Backend
 cd backend
 cp .env.bhms .env
 php artisan key:generate
